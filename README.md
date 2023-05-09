@@ -104,3 +104,4 @@ The app must have the following functionalities
 > - Don't change the component folder names as those are the files being imported into the tests.
 # Music-Playlist
 # Music-Playlist
+# Music-Playlist

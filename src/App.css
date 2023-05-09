@@ -35,6 +35,7 @@ body {
   background-color: transparent;
   border: 0px;
 }
+
 .image {
   width: 150px;
   height: 100px;
@@ -59,6 +60,7 @@ li button {
   border-radius: 5px;
   padding: 5px;
   width: 220px;
+  background-color: transparent;
 }
 .not-found-container {
   height: 270px;
@@ -68,4 +70,10 @@ li button {
 }
 .not-found-container p {
   font-size: 36px;
+}
+.input {
+  background-color: transparent;
+  border: 0px;
+  outline: none;
+  color: white;
 }

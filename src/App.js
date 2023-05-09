@@ -118,6 +118,7 @@ class App extends Component {
             <h1>Songs Playlist</h1>
             <div className="input-container">
               <input
+                className="input"
                 type="search"
                 placeholder="Search"
                 value={search}
