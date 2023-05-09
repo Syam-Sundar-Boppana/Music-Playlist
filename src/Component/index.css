@@ -1,0 +1,24 @@
+.list-container {
+  display: flex;
+}
+.name-genre-container {
+  display: flex;
+  flex-direction: column;
+}
+.duration-button-container {
+  display: flex;
+  align-items: center;
+}
+.list {
+  display: flex;
+  justify-content: space-between;
+  margin-right: 60px;
+}
+.duration-button-container p {
+  margin: 35px;
+}
+.duration-button-container button {
+  border: 0px;
+  color: white;
+  width: 60px;
+}
